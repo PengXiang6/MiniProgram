@@ -1,0 +1,7 @@
+{
+  "pages": [
+    "Entrance",
+    "pages/home/home"
+  ],
+  "sitemapLocation": "sitemap.json"
+}
